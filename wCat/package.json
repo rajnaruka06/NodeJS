@@ -1,0 +1,20 @@
+{
+  "name": "wcat",
+  "version": "1.0.0",
+  "description": "wCat module like cat of linux",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wCat": "node index.js"
+  },
+  "author": "RajKishor",
+  "license": "ISC",
+  "bin": {
+    "wCat": "try2.js"
+  },
+  "keywords": []
+}
